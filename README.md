@@ -1,6 +1,7 @@
 # ReactifyDjango
 This Boilerplate is the setup for the React and Django combination with the django-restful apis for the web apps development..
 
+![alt text](https://raw.githubusercontent.com/Seedstars/django-react-redux-jwt-base/master/screenshots/screenshot_01.png)
 # Front End
 For frontend Development 
   1. check the node is installed or not in your working system
